@@ -7,4 +7,9 @@ https://www.notion.so/node_modules-Yarn-Berry-d77969adcce945528a1bde61de65c72d
 https://www.notion.so/Template-Literal-Types-ab50601d80fb4c72bb006644e0082967
 
 ## 웹 서비스 캐시 똑똑하게 다루기
+
 https://www.notion.so/82a2e38b5b294e83bb7f54c70738c9c5
+
+## 내 Import 문이 그렇게 이상했나요
+
+https://pebble-schooner-b3c.notion.site/Import-c118113e8afc4fbeaec57b575758826a
