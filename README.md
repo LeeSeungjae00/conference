@@ -13,3 +13,7 @@ https://www.notion.so/82a2e38b5b294e83bb7f54c70738c9c5
 ## 내 Import 문이 그렇게 이상했나요
 
 https://pebble-schooner-b3c.notion.site/Import-c118113e8afc4fbeaec57b575758826a
+
+## 상태관리 이 전쟁을 끝내러 왔다, 보이지 않는 개선 Redux → React-Query
+
+https://pebble-schooner-b3c.notion.site/Redux-React-Query-457a6af3399e41399b0cf59ae947ee83
